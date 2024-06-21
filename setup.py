@@ -33,7 +33,7 @@ setup(
     "matplotlib == 3.2.0",
     "astroplan",
     "astroquery",
-    "sklearn", 
+    "scikit-learn",
     "scipy", 
     "tess-point", 
     "reproject > 0.7", 
